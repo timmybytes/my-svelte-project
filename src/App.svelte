@@ -16,10 +16,10 @@
 	}
 
 	h1 {
-		color: #ff3e00;
+		color: #42a4ff;
 		text-transform: uppercase;
 		font-size: 4em;
-		font-weight: 100;
+		font-weight: 300;
 	}
 
 	@media (min-width: 640px) {
